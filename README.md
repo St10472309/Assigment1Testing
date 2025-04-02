@@ -16,3 +16,4 @@ Key Features:
 
 It use a Edit Text in which the user will type in between this chooses Moring, Mid-moring, Afternoon, Mid-Afternoon, Night and Late Night and get there answer in the Text View. In the Text View this is where the suggested meal while be shown so if u typed in Morining in the Edit Text the Text View will answer with Breakfast: eggs and bacon, then there are the two buttons the first button is the suggestion button which thats the input from the Edit Text and turns it into the output answer to the text view and then there's the second button which is the reset button that clear what the user put's in the edit text and what's in the text view
 
+
