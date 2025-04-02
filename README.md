@@ -8,7 +8,7 @@ Link to Youtube:https://youtu.be/rJZCkavo2ZA?si=lcNcLc72AbrGZntG
 
 ![image](https://github.com/user-attachments/assets/615bba77-6392-41d8-aee1-a4ec4d5dcc65)
 
-Purpuse:
+Purpose:
 
 The app is a simple the use app that helps user on which meals to have on what time of the day.It helps as it it quick, fun and strees free when it comes to decision making based on if the user types in Moring, Mid-moring, Afternoon, Mid-Afternoon, Night and Late Night.
 
